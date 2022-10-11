@@ -23,6 +23,7 @@ if selected == "Home":
     st.title("Home page")
     a1, a2 = st.columns(2)
     b1, b2 = st.columns(2)
+    st.markdown('### Heatmap')
     a1.write("""
     ### Информация
     - высшее образование (Саратовский университет, 1997)
