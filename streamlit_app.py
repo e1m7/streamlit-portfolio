@@ -65,6 +65,6 @@ if selected == "Contact":
     - https://exercism.org/profiles/e1m7
     - https://www.kaggle.com/lavagod
     - https://github.com/e1m7
-    - #### телефон 123-456-789
-    - #### address@server.ru
+    - телефон 123-456-789
+    - address@server.ru
     """)
