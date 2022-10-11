@@ -18,7 +18,7 @@ with st.sidebar:
 
 if selected == "Home":
     st.title("Home page")
-    a1, a2, a3 = st.columns(3)
+    a1, a2 = st.columns(2)
     a1.write("""
     ### Информация
     - высшее образование (Саратовский университет, 1997)
@@ -37,8 +37,7 @@ if selected == "Home":
     - NodeJS/React/Angular/Vue
     - Машинное обучение
     - Нейронные сети
-    """)
-    a3.write("""
+
     ### Иностранные языки
     - Русский (родной)
     - Французский (средний)
