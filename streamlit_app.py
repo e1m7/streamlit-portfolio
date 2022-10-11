@@ -25,7 +25,7 @@ if selected == "Home":
     - эксперт WorldSkills блокчейн
     - эксперт WorldSkills веб-дизайн
     """)
-    s2.write("""
+    a2.write("""
     ### Стек технологий
     - Python (Flask, Django, Bottle)
     - HTML/CSS/JavaScript
@@ -33,7 +33,7 @@ if selected == "Home":
     - React/Angular/Vue
     - Blockchain
     """)
-    s3.write("""
+    a3.write("""
     ### Иностранные языки
     - Русский (родной)
     - Французский (средний)
