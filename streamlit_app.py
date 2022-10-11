@@ -6,6 +6,10 @@ with st.sidebar:
     selected = option_menu(
         menu_title = "Main Menu",
         options = ["Home", "Projects", "Contact"],
+        icons = ["house", "book", "envelope"],
+        menu_icon = "cats",
+        default_index = 0,
+
     )
 
 if selected == "Home":
