@@ -12,14 +12,35 @@ with st.sidebar:
         icons = ["house", "book", "envelope"],
         menu_icon = "cast",
         default_index = 0,
-
     )
-
 
 if selected == "Home":
     st.title("Home page")
-    VIDEO_URL = "https://static.streamlit.io/examples/star.mp4"
-    st.video(VIDEO_URL)
+    a1, a2, a3 = st.columns(3)
+    a1.write("""
+    ### Info
+    - кандидат наук
+    - программист
+    - преподаватель колледжа/университета
+    - эксперт WorldSkills блокчейн
+    - эксперт WorldSkills веб-дизайн
+    """)
+    s2.write("""
+    ### Стек технологий
+    - Python (Flask, Django, Bottle)
+    - HTML/CSS/JavaScript
+    - NodeJS/Streamlit
+    - React/Angular/Vue
+    - Blockchain
+    """)
+    s3.write("""
+    ### Иностранные языки
+    - Русский (родной)
+    - Французский (средний)
+    - Английский (средний)
+    - Болгарский (начальный)
+    - Испанский (начальный)
+    """)
 
 
 if selected == "Projects":
