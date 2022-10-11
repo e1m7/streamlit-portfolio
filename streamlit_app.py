@@ -34,6 +34,7 @@ if selected == "Home":
     - книга "Основы программирования для студентов"
     - книга "Python: практическое применение"
     - книга "Блокчейн: смарт-контакты"
+    - сертификаты и грамоты https://t.ly/7FE-
     """)
     b1.write("""
     ### Опыт работы
@@ -70,6 +71,7 @@ if selected == "Contact":
     c1.image(Image.open('avatar.jpg'))
     c2.write("""
     ### Контакты
+    - https://www.codewars.com/users/e1m7
     - https://exercism.org/profiles/e1m7
     - https://www.kaggle.com/lavagod
     - https://github.com/e1m7
