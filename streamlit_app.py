@@ -20,20 +20,23 @@ if selected == "Home":
     st.title("Home page")
     a1, a2, a3 = st.columns(3)
     a1.write("""
-    ### Info
+    ### Информация :info:
     - кандидат наук
     - программист
-    - преподаватель колледжа/университета
+    - преподаватель колледжа (7 лет)
+    - преподаватель университета (7 лет)
     - эксперт WorldSkills блокчейн
     - эксперт WorldSkills веб-дизайн
     """)
     a2.write("""
     ### Стек технологий
-    - Python (Flask, Django, Bottle)
+    - Python/Pandas/NumPy/MatPlotLib
     - HTML/CSS/JavaScript
     - NodeJS/Streamlit
     - React/Angular/Vue
     - Blockchain
+    - Машинное обучение
+    - Нейронные сети
     """)
     a3.write("""
     ### Иностранные языки
@@ -52,4 +55,8 @@ if selected == "Contact":
     st.title("Contact page")
     c1, c2 = st.columns(2)
     c1.image(Image.open('avatar.jpg'))
-    c2.write("test")
+    c2.write("""
+    ### Контакты
+    - телефон 123-456-789
+    - address@server.ru
+    """)
