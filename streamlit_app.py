@@ -17,9 +17,7 @@ with st.sidebar:
 if selected == "Home":
     st.title("Home page")
     a1, a2, a3 = st.columns(3)
-    a1.image(Image.open('streamlit-logo-secondary-colormark-darktext1.png'))
-    a2.metric("Wind", "9 mph", "-8%")
-    a3.metric("Humidity", "86%", "4%")
+    a1.image(Image.open('avatar.jpg'))
 
 
 if selected == "Projects":
