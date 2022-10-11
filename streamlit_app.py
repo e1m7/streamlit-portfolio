@@ -15,12 +15,12 @@ with st.sidebar:
 
     )
 
+VIDEO_URL = "https://static.streamlit.io/examples/star.mp4"
+st.video(VIDEO_URL)
+
 if selected == "Home":
     st.title("Home page")
     a1, a2 = st.columns(2)
-    video_file = open('https://static.streamlit.io/examples/star.mp4', 'rb')
-    video_bytes = video_file.read()
-    a1.video(video_bytes)
     a1.write("test")
     a2.write("test")
 
