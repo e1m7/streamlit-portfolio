@@ -15,14 +15,11 @@ with st.sidebar:
 
     )
 
-VIDEO_URL = "https://static.streamlit.io/examples/star.mp4"
-st.video(VIDEO_URL)
 
 if selected == "Home":
     st.title("Home page")
-    a1, a2 = st.columns(2)
-    a1.write("test")
-    a2.write("test")
+    VIDEO_URL = "https://static.streamlit.io/examples/star.mp4"
+    st.video(VIDEO_URL)
 
 
 if selected == "Projects":
