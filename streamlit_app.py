@@ -18,12 +18,7 @@ with st.sidebar:
 if selected == "Home":
     st.title("Home page")
     a1, a2 = st.columns(2)
-    a1.write(""" 
-        ### Ivan Sedov
-        * кандидат наук
-        * преподаватель 20+
-        * эксперт WorldSkills
-    """)
+    a1.header('Ivan Sedov')
     a2.write("test")
 
 
