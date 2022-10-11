@@ -22,20 +22,18 @@ if selected == "Home":
     a1.write("""
     ### Информация
     - кандидат наук
-    - программист
+    - программист (Python)
     - преподаватель колледжа (7 лет)
-    - преподаватель института (7 лет)
+    - преподаватель института (6 лет)
     - преподаватель университета (7 лет)
     - эксперт WorldSkills блокчейн
-    - эксперт WorldSkills веб-дизайн
     """)
     a2.write("""
     ### Стек технологий
     - Python/Pandas/NumPy/MatPlotLib
-    - HTML/CSS/JavaScript
-    - NodeJS/Streamlit
-    - React/Angular/Vue
-    - Blockchain
+    - HTML/CSS/JavaScript/jQuery
+    - NodeJS/React/Angular/Vue/Streamlit
+    - Blockchain/Solidity/Ethereum
     - Машинное обучение
     - Нейронные сети
     """)
@@ -58,6 +56,9 @@ if selected == "Contact":
     c1.image(Image.open('avatar.jpg'))
     c2.write("""
     ### Контакты
+    - https://exercism.org/profiles/e1m7
+    - https://www.kaggle.com/lavagod
+    - https://github.com/e1m7
     - телефон 123-456-789
     - address@server.ru
     """)
