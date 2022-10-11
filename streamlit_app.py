@@ -18,7 +18,10 @@ with st.sidebar:
 if selected == "Home":
     st.title("Home page")
     a1, a2 = st.columns(2)
-    a1.header('Ivan Sedov')
+    video_file = open('https://static.streamlit.io/examples/star.mp4', 'rb')
+    video_bytes = video_file.read()
+    a1.video(video_bytes)
+    a1.write("test")
     a2.write("test")
 
 
