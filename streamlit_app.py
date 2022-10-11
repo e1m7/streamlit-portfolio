@@ -26,13 +26,13 @@ if selected == "Home":
     - специальность "учитель математики и информатики"
     - кандидат падагогических наук (2000-...)
     - эксперт WorldSkills блокчейн-технологии
-    - программист (Python)
+    - программист (Python, JavaScript)
     """)
     b1.write("""
     ### Опыт работы
     - преподаватель института (2000-2006)
     - преподаватель университета (2006-2015)
-    - фриланс
+    - фриланс программирование (2015-2019)
     - преподаватель колледжа (2019-...)
     """)
     a2.write("""
@@ -40,8 +40,8 @@ if selected == "Home":
     - Python/Pandas/Spark/SQL
     - HTML/CSS/JavaScript
     - NodeJS/React/Angular/Vue
-    - Машинное обучение
-    - Нейронные сети
+    - Машинное обучение (Python)
+    - Нейронные сети (JavaScript)
     """)
     b2.write("""
     ### Иностранные языки
@@ -65,6 +65,6 @@ if selected == "Contact":
     - https://exercism.org/profiles/e1m7
     - https://www.kaggle.com/lavagod
     - https://github.com/e1m7
-    - **телефон 123-456-789**
-    - **address@server.ru**
+    - #### телефон 123-456-789
+    - #### address@server.ru
     """)
