@@ -20,7 +20,7 @@ if selected == "Home":
     st.title("Home page")
     a1, a2, a3 = st.columns(3)
     a1.write("""
-    ### Информация :info:
+    ### Информация :house:
     - кандидат наук
     - программист
     - преподаватель колледжа (7 лет)
@@ -29,7 +29,7 @@ if selected == "Home":
     - эксперт WorldSkills веб-дизайн
     """)
     a2.write("""
-    ### Стек технологий
+    ### Стек технологий :computer:
     - Python/Pandas/NumPy/MatPlotLib
     - HTML/CSS/JavaScript
     - NodeJS/Streamlit
@@ -39,7 +39,7 @@ if selected == "Home":
     - Нейронные сети
     """)
     a3.write("""
-    ### Иностранные языки
+    ### Иностранные языки :moyai:
     - Русский (родной)
     - Французский (средний)
     - Английский (средний)
@@ -56,7 +56,7 @@ if selected == "Contact":
     c1, c2 = st.columns(2)
     c1.image(Image.open('avatar.jpg'))
     c2.write("""
-    ### Контакты
+    ### Контакты :phone:
     - телефон 123-456-789
     - address@server.ru
     """)
