@@ -1,6 +1,9 @@
 import streamlit as st
 from streamlit_option_menu import option_menu
 from PIL import Image
+import pandas as pd
+import numpy as np
+import plost
 
 st.set_page_config(layout="wide")
 
@@ -42,6 +45,7 @@ if selected == "Home":
     a2.write("""
     ### Стек технологий
     - Python/Pandas/Spark/SQL
+    - Django/Flask/Bottle
     - HTML/CSS/JavaScript
     - NodeJS/React/Angular/Vue
     - Машинное обучение (Python)
