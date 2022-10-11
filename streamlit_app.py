@@ -21,7 +21,9 @@ if selected == "Home":
     a1, a2, a3 = st.columns(3)
     a1.write("""
     ### Информация
-    - кандидат наук
+    - высшее образование (Саратовский университет, 1997)
+    - специальность "учитель математики и информатики"
+    - кандидат падагогических наук
     - программист (Python)
     - преподаватель колледжа (7 лет)
     - преподаватель института (6 лет)
@@ -30,10 +32,9 @@ if selected == "Home":
     """)
     a2.write("""
     ### Стек технологий
-    - Python/Pandas/NumPy/MatPlotLib
-    - HTML/CSS/JavaScript/jQuery
-    - NodeJS/React/Angular/Vue/Streamlit
-    - Blockchain/Solidity/Ethereum
+    - Python/Pandas/Spark/SQL
+    - HTML/CSS/JavaScript
+    - NodeJS/React/Angular/Vue
     - Машинное обучение
     - Нейронные сети
     """)
