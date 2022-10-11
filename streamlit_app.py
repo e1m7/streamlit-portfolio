@@ -2,7 +2,7 @@ import streamlit as st
 from streamlit_option_menu import option_menu
 from PIL import Image
 
-st.set_page_config(layout="wide")
+# st.set_page_config(layout="wide")
 
 with open('style.css') as f:
     st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
@@ -56,7 +56,6 @@ if selected == "Home":
     - Болгарский (начальный)
     - Испанский (начальный)
     """)
-
 
 if selected == "Projects":
     st.title("Projects page")
