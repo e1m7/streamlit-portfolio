@@ -17,8 +17,9 @@ with st.sidebar:
 
 if selected == "Home":
     st.title("Home page")
-    a1, a2, a3 = st.columns(3)
-    a1.image(Image.open('avatar.jpg'))
+    a1, a2 = st.columns(2)
+    a1.write("test")
+    a2.write("test")
 
 
 if selected == "Projects":
@@ -26,3 +27,6 @@ if selected == "Projects":
 
 if selected == "Contact":
     st.title("Contact page")
+    c1, c2 = st.columns(2)
+    c1.image(Image.open('avatar.jpg'))
+    c2.write("test")
