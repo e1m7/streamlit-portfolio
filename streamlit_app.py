@@ -64,6 +64,10 @@ if selected == "Home":
 
 if selected == "Projects":
     st.title("Projects page")
+    b1, b2 = st.columns(2)
+    b1.write("""
+    - [Simple Stock Price](https://e1m7-projects-project01-simple-stock-pricemyapp-kcdmo6.streamlitapp.com/)
+    """)
 
 if selected == "Contact":
     st.title("Contact page")
