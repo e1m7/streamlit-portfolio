@@ -67,6 +67,7 @@ if selected == "Projects":
     b1, b2 = st.columns(2)
     b1.write("""
     - [Simple Stock Price](https://e1m7-projects-project01-simple-stock-pricemyapp-kcdmo6.streamlitapp.com/)
+    - [Simple Bioinformatics DNA count](https://e1m7-proj-project02-simple-bioinformatics-dna-countmyapp-k6rqf0.streamlitapp.com/)
     """)
 
 if selected == "Contact":
@@ -75,10 +76,11 @@ if selected == "Contact":
     c1.image(Image.open('avatar.jpg'))
     c2.write("""
     ### Контакты
+    - телефон 123-456-789
+    - address@server.ru
+    ### Ссылки
     - https://www.codewars.com/users/e1m7
     - https://exercism.org/profiles/e1m7
     - https://www.kaggle.com/lavagod
     - https://github.com/e1m7
-    - телефон 123-456-789
-    - address@server.ru
     """)
