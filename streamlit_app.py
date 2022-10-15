@@ -26,6 +26,7 @@ if selected == "Home":
     a1.write("""
     ### Информация
     - высшее образование (Саратовский университет, 1997)
+    - высшее образование (Саратовский университет, 1997)
     - специальность "учитель математики и информатики"
     - кандидат падагогических наук (2000-...)
     - программист (Python, JavaScript)
@@ -70,6 +71,7 @@ if selected == "Projects":
     - [Simple Bioinformatics DNA count](https://e1m7-proj-project02-simple-bioinformatics-dna-countmyapp-k6rqf0.streamlitapp.com/)
     - [NBA Player Stats Explorer](https://e1m7-projects-project03-basketballpy-app-yzpnyj.streamlitapp.com/)
     - [NFL Football Stats Explorer](https://e1m7-projects-project04-footballmy-app-t0md5t.streamlitapp.com/)
+    - [Simple Iris Flower Prediction](https://e1m7-projects-project07-iris-datamy-app-5up9d9.streamlitapp.com/)
     """)
 
 if selected == "Contact":
