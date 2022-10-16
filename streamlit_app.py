@@ -21,7 +21,7 @@ with st.sidebar:
 
 if selected == "Home":
     st.title("Home page")
-    a1, a2 = st.columns([3, 1])
+    a1, a2 = st.columns([5, 2])
     a1.write("""
     ### Information
     - enseignement supérieur (Université d'état de Saratov, 1997)
