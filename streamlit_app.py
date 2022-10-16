@@ -36,7 +36,7 @@ if selected == "Home":
     - certificats et diplômes obtenus pendant le travail [link](https://t.ly/7FE-)
 
     """)
-    b1.write("""
+    a1.write("""
     ### Références
     - professeur à l'institut (2000-2006) [link](https://t.ly/d9zy), création de cours de programmation, participation à des conférences, préparation aux examens finaux
     - professeur à l'institut (2006-2015) [link](https://t.ly/aa6l), participation aux activités de projet, contrôle des relations internationales, participation à des conférences internationales
