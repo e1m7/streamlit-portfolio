@@ -28,8 +28,8 @@ if selected == "Home":
     - spécialité "professeur de Mathématiques et d'informatique"
     - doctorat en sciences de l'éducation (2000 -...)
     - programmeur (langages de base Python, JavaScript)
-    - vainqueur du projet éducation (2008, 1m Euro), chef de projet
-    - participant au projet" éducation " (2016, 1,5 m Euro), chef d'une petite partie du projet
+    - vainqueur du projet éducation (2008, 1M Euro), chef de projet
+    - participant au projet" éducation " (2016, 1,5M Euro), chef d'une petite partie du projet
     - livre "les Bases de la programmation pour les étudiants", pour les étudiants en sciences humaines
     - livre "Python: application pratique" [link](https://t.ly/rCCw), projets en langage simple à complexe
     - livre "Blockchain: contacts intelligents" [link](https://t.ly/FOc8), rédaction de contrats intelligents de simple à complexe
@@ -66,11 +66,15 @@ if selected == "Projects":
     st.title("Projects page")
     b1, b2 = st.columns(2)
     b1.write("""
+    ### Level 1
     - [Simple Stock Price](https://e1m7-projects-project01-simple-stock-pricemyapp-kcdmo6.streamlitapp.com/)
     - [Simple Bioinformatics DNA count](https://e1m7-proj-project02-simple-bioinformatics-dna-countmyapp-k6rqf0.streamlitapp.com/)
     - [NBA Player Stats Explorer](https://e1m7-projects-project03-basketballpy-app-yzpnyj.streamlitapp.com/)
     - [NFL Football Stats Explorer](https://e1m7-projects-project04-footballmy-app-t0md5t.streamlitapp.com/)
     - [Simple Iris Flower Prediction](https://e1m7-projects-project07-iris-datamy-app-5up9d9.streamlitapp.com/)
+    """)
+    b2.write("""
+    ### Level 2
     """)
 
 if selected == "Contact":
