@@ -21,7 +21,7 @@ with st.sidebar:
 
 if selected == "Home":
     st.title("Home page")
-    a1, a2, a3 = st.columns(3)
+    a1, a2 = st.columns([3, 1])
     a1.write("""
     ### Information
     - enseignement supérieur (Université d'état de Saratov, 1997)
@@ -43,7 +43,7 @@ if selected == "Home":
     - programmation freelance (2015-2019), création de sites Web pour les entreprises, travail en tant qu'administrateur de site, gestionnaire de contenu, directeur des relations publiques
     - professeur de collège (2019-...) [link](https://disk.yandex.ru/d/DGhMJddbb3fuVg), préparation et tenue de compétitions régionales sur la blockchain, développement de cours de programmation
     """)
-    a3.write("""
+    a2.write("""
     ### Pile technologique
     - Python
     - Spark
