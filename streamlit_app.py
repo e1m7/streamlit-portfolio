@@ -24,43 +24,43 @@ if selected == "Home":
     a1, a2 = st.columns(2)
     b1, b2 = st.columns(2)
     a1.write("""
-    ### Информация
-    - высшее образование (Саратовский университет, 1997)
-    - высшее образование (Саратовский университет, 1997)
-    - специальность "учитель математики и информатики"
-    - кандидат падагогических наук (2000-...)
-    - программист (Python, JavaScript)
-    - победитель проекта "Образование" (2008, 1М евро)
-    - участник проекта "Образование" (2016, 1,5М евро)
-    - книга "Основы программирования для студентов"
-    - книга "Python: практическое применение" [link](https://t.ly/rCCw)
-    - книга "Блокчейн: смарт-контакты" [link](https://t.ly/FOc8)
-    - сертификаты и грамоты [link](https://t.ly/7FE-)
+    ### Information
+    - enseignement supérieur (Université d'état de Saratov, 1997)
+    - spécialité "professeur de Mathématiques et d'informatique"
+    - doctorat en sciences de l'éducation (2000 -...)
+    - programmeur (langages de base Python, JavaScript)
+    - vainqueur du projet éducation (2008, 1m Euro), chef de projet
+    - participant au projet" éducation " (2016, 1,5 m Euro), chef d'une petite partie du projet
+    - livre "les Bases de la programmation pour les étudiants", pour les étudiants en sciences humaines
+    - livre "Python: application pratique" [link](https://t.ly/rCCw), projets en langage simple à complexe
+    - livre "Blockchain: contacts intelligents" [link](https://t.ly/FOc8), rédaction de contrats intelligents de simple à complexe
+    - certificats et diplômes obtenus pendant le travail [link](https://t.ly/7FE-)
+
     """)
     b1.write("""
-    ### Опыт работы
-    - преподаватель института (2000-2006) [link](https://t.ly/d9zy)
-    - преподаватель университета (2006-2015) [link](https://t.ly/aa6l)
-    - фриланс программирование (2015-2019)
-    - преподаватель колледжа (2019-...) [link](https://disk.yandex.ru/d/DGhMJddbb3fuVg)
+    ### Références
+    - professeur à l'institut (2000-2006) [link](https://t.ly/d9zy), création de cours de programmation, participation à des conférences, préparation aux examens finaux
+    - professeur à l'institut (2006-2015) [link](https://t.ly/aa6l), participation aux activités de projet, contrôle des relations internationales, participation à des conférences internationales
+    - programmation freelance (2015-2019), création de sites Web pour les entreprises, travail en tant qu'administrateur de site, gestionnaire de contenu, directeur des relations publiques
+    - professeur de collège (2019-...) [link](https://disk.yandex.ru/d/DGhMJddbb3fuVg), préparation et tenue de compétitions régionales sur la blockchain, développement de cours de programmation
     """)
     a2.write("""
-    ### Стек технологий
-    - Python/Pandas/Spark/SQL
-    - Django/Flask/Bottle
-    - HTML/CSS/JavaScript
-    - NodeJS/React/Angular/Vue
-    - Машинное обучение (Python)
-    - Нейронные сети (JavaScript)
-    - API/FastAPI/RestAPI
+    ### Pile technologique
+    - Python
+    - Spark
+    - Spark SQL
+    - Spark RDD
+    - AWS
+    - Web-design
+    - Web-programmation
     """)
-    b2.write("""
-    ### Иностранные языки
-    - Русский (родной)
-    - Французский (средний)
-    - Английский (средний)
-    - Болгарский (начальный)
-    - Испанский (начальный)
+    b1.write("""
+    ### Langue étrangère
+    - Russe (natif)
+    - Français (moyen)
+    - Anglais (moyen)
+    - Bulgare (primaire)
+    - Espagnol (primaire)
     """)
 
 if selected == "Projects":
@@ -77,7 +77,7 @@ if selected == "Projects":
 if selected == "Contact":
     st.title("Contact page")
     c1, c2 = st.columns(2)
-    c1.image(Image.open('avatar.jpg'))
+    c1.image(Image.open('avatar2.jpg'))
     c2.write("""
     ### Контакты
     - телефон 123-456-789
