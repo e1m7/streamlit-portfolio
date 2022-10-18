@@ -53,8 +53,8 @@ if selected == "Home":
     """)
     a1.write("""
     ### Certificats
-    - Python [image](./image/1.png)
-    - Intro to Machine Learning [image](./image/2.png)
+    - Python [image](https://github.com/e1m7/streamlit-portfolio/blob/main/image/1.png)
+    - Intro to Machine Learning [image](https://github.com/e1m7/streamlit-portfolio/blob/main/image/2.png)
     - Pandas
     """)
 
