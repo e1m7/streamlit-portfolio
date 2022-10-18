@@ -43,6 +43,21 @@ if selected == "Home":
     - programmation freelance (2015-2019), création de sites Web pour les entreprises, travail en tant qu'administrateur de site, gestionnaire de contenu, directeur des relations publiques
     - professeur de collège (2019-...) [link](https://disk.yandex.ru/d/DGhMJddbb3fuVg), préparation et tenue de compétitions régionales sur la blockchain, développement de cours de programmation
     """)
+    a1.write("""
+    ### Langue étrangère
+    - Russe (natif)
+    - Français (moyen)
+    - Anglais (moyen)
+    - Bulgare (primaire)
+    - Espagnol (primaire)
+    """)
+    a1.write("""
+    ### Certificats
+    - Python https://www.kaggle.com/learn/python
+    - Intro to Machine Learning https://www.kaggle.com/learn/intro-to-machine-learning
+    - Pandas
+    """)
+
     a2.write("""
     ### Pile technologique
     - Python
@@ -52,14 +67,6 @@ if selected == "Home":
     - AWS
     - Web-design
     - Web-programmation
-    """)
-    a1.write("""
-    ### Langue étrangère
-    - Russe (natif)
-    - Français (moyen)
-    - Anglais (moyen)
-    - Bulgare (primaire)
-    - Espagnol (primaire)
     """)
 
 if selected == "Projects":
