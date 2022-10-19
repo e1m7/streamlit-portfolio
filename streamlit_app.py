@@ -86,7 +86,7 @@ if selected == "Projects":
     b2.write("""
     ### Pipeline
     Développements simples
-    - [Prévision du salaire des employés](https://e1m7-projects-prokect10-salarymy-app-dids65.streamlitapp.com/)
+    - [Prediction salary](https://e1m7-projects-prokect10-salarymy-app-dids65.streamlitapp.com/)
     """)
 
 if selected == "Contact":
