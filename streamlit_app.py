@@ -60,7 +60,7 @@ if selected == "Home":
     """)
     ser = pd.Series(data={'a': 1, 'b': 2, 'c': 3})
     df = pd.DataFrame(ser, columns=('111', '222', '333'))
-    a1.table(df)
+    st.table(df)
 
     a2.write("""
     ### Pile technologique
