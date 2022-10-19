@@ -75,7 +75,8 @@ if selected == "Projects":
     st.title("Projects page")
     b1, b2 = st.columns(2)
     b1.write("""
-    ### Level 1
+    ### Applications
+    Applications simples
     - [Simple Stock Price](https://e1m7-projects-project01-simple-stock-pricemyapp-kcdmo6.streamlitapp.com/)
     - [Simple Bioinformatics DNA count](https://e1m7-proj-project02-simple-bioinformatics-dna-countmyapp-k6rqf0.streamlitapp.com/)
     - [NBA Player Stats Explorer](https://e1m7-projects-project03-basketballpy-app-yzpnyj.streamlitapp.com/)
@@ -83,7 +84,8 @@ if selected == "Projects":
     - [Simple Iris Flower Prediction](https://e1m7-projects-project07-iris-datamy-app-5up9d9.streamlitapp.com/)
     """)
     b2.write("""
-    ### Level 2
+    ### Pipeline
+    Développements simples
     """)
 
 if selected == "Contact":
