@@ -55,7 +55,8 @@ if selected == "Home":
     ### Certificats
     - Python [image](https://github.com/e1m7/streamlit-portfolio/blob/main/image/1.png)
     - Intro to Machine Learning [image](https://github.com/e1m7/streamlit-portfolio/blob/main/image/2.png)
-    - Pandas
+    - Pandas [image](https://github.com/e1m7/streamlit-portfolio/blob/main/image/3.png)
+    - Intro to Programming [image](https://github.com/e1m7/streamlit-portfolio/blob/main/image/4.png)
     """)
 
     a2.write("""
