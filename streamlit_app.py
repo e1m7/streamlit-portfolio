@@ -58,9 +58,7 @@ if selected == "Home":
     - Pandas [image](https://github.com/e1m7/streamlit-portfolio/blob/main/image/3.png)
     - Intro to Programming [image](https://github.com/e1m7/streamlit-portfolio/blob/main/image/4.png)
     """)
-    ser = pd.Series(data={'a': 1, 'b': 2, 'c': 3})
-    df = pd.DataFrame(ser, columns=('111', '222', '333'))
-    st.table(df)
+    st.balloons()
 
     a2.write("""
     ### Pile technologique
