@@ -87,6 +87,7 @@ if selected == "Projects":
     ### Pipeline
     Développements simples
     - [Prediction salary](https://e1m7-projects-prokect10-salarymy-app-dids65.streamlitapp.com/)
+    - [Create pipeline cars](https://e1m7-projects-prokect11-carsmy-app-xrcgrz.streamlitapp.com/)
     """)
 
 if selected == "Contact":
