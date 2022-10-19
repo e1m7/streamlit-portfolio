@@ -58,6 +58,9 @@ if selected == "Home":
     - Pandas [image](https://github.com/e1m7/streamlit-portfolio/blob/main/image/3.png)
     - Intro to Programming [image](https://github.com/e1m7/streamlit-portfolio/blob/main/image/4.png)
     """)
+    df = pd.DataFrame(
+    np.random.randn(10, 5), columns=('col %d' % i for i in range(5)))
+    a1.table(df)
 
     a2.write("""
     ### Pile technologique
