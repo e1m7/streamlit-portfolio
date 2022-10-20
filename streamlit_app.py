@@ -6,6 +6,7 @@ import numpy as np
 import plost
 
 st.set_page_config(layout="wide")
+st.balloons()
 
 with open('style.css') as f:
     st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
@@ -42,24 +43,18 @@ if selected == "Home":
     - professeur à l'institut (2006-2015) [link](https://t.ly/aa6l), participation aux activités de projet, contrôle des relations internationales, participation à des conférences internationales
     - programmation freelance (2015-2019), création de sites Web pour les entreprises, travail en tant qu'administrateur de site, gestionnaire de contenu, directeur des relations publiques
     - professeur de collège (2019-...) [link](https://disk.yandex.ru/d/DGhMJddbb3fuVg), préparation et tenue de compétitions régionales sur la blockchain, développement de cours de programmation
-    """)
-    a1.write("""
     ### Langue étrangère
     - Russe (natif)
     - Français (moyen)
     - Anglais (moyen)
     - Bulgare (primaire)
     - Espagnol (primaire)
-    """)
-    a1.write("""
     ### Certificats
     - [image](https://github.com/e1m7/streamlit-portfolio/blob/main/image/1.png) Python
     - [image](https://github.com/e1m7/streamlit-portfolio/blob/main/image/2.png) Intro to Machine Learning
     - [image](https://github.com/e1m7/streamlit-portfolio/blob/main/image/3.png) Pandas
     - [image](https://github.com/e1m7/streamlit-portfolio/blob/main/image/4.png) Intro to Programming
     """)
-    st.balloons()
-
     a2.write("""
     ### Pile technologique
     - Python
