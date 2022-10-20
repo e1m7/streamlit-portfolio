@@ -73,7 +73,7 @@ if selected == "Home":
 
 if selected == "Projects":
     st.title("Projects page")
-    b1, b2 = st.columns(2)
+    b1, b2, b3 = st.columns(3)
     b1.write("""
     ### Applications
     Applications simples
@@ -86,9 +86,15 @@ if selected == "Projects":
     b2.write("""
     ### Pipeline
     Développements simples
-    - [Prediction salary](https://e1m7-projects-prokect10-salarymy-app-dids65.streamlitapp.com/)
+    - [Create pipeline salary](https://e1m7-projects-prokect10-salarymy-app-dids65.streamlitapp.com/)
     - [Create pipeline cars](https://e1m7-projects-prokect11-carsmy-app-xrcgrz.streamlitapp.com/)
     """)
+    b3.write("""
+    ### Modèles
+    Développements simples
+    - [Gamma Telescope](https://e1m7-projects-model1my-app-u03h4l.streamlitapp.com/)
+    """)
+
 
 if selected == "Contact":
     st.title("Contact page")
