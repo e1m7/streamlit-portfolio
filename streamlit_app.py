@@ -58,12 +58,15 @@ if selected == "Home":
     a2.write("""
     ### Pile technologique
     - Python
-    - Spark
+    - Spark Core
     - Spark SQL
+    - Spark Streaming
     - Spark RDD
     - AWS
     - Web-design
     - Web-programmation
+    ---
+    - R
     """)
 
 if selected == "Projects":
@@ -86,8 +89,9 @@ if selected == "Projects":
     """)
     b3.write("""
     ### Modèles
-    Développements simples
-    - [Gamma Telescope](https://e1m7-projects-model1my-app-u03h4l.streamlitapp.com/)
+    Modèles simples
+    - [Gamma Telescope: KNeighbors](https://e1m7-projects-model1my-app-u03h4l.streamlitapp.com/)
+    - [Gamma Telescope: Native Bayes](https://e1m7-projects-model2my-app-xvylyf.streamlitapp.com/)
     """)
 
 
