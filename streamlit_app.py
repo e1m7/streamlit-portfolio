@@ -54,19 +54,19 @@ if selected == "Home":
     - [image](https://github.com/e1m7/streamlit-portfolio/blob/main/image/2.png) Intro to Machine Learning
     - [image](https://github.com/e1m7/streamlit-portfolio/blob/main/image/3.png) Pandas
     - [image](https://github.com/e1m7/streamlit-portfolio/blob/main/image/4.png) Intro to Programming
+    - [image](https://github.com/e1m7/streamlit-portfolio/blob/main/image/5.png) Intermediate Machine Learning
     """)
     a2.write("""
     ### Pile technologique
-    - Python
     - Spark Core
     - Spark SQL
     - Spark Streaming
     - Spark RDD
-    - AWS
-    - Web-design
-    - Web-programmation
+    - Python
+    - Pandas
+    - NumPy
     ---
-    - R
+    - R lang
     """)
 
 if selected == "Projects":
@@ -104,6 +104,7 @@ if selected == "Contact":
     - телефон 123-456-789
     - address@server.ru
     ### Ссылки
+    - https://platform.stratascratch.com/user/e1m7
     - https://www.codewars.com/users/e1m7
     - https://exercism.org/profiles/e1m7
     - https://www.kaggle.com/lavagod
