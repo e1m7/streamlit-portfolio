@@ -98,7 +98,7 @@ if selected == "Projects":
 if selected == "Contact":
     st.title("Contact page")
     c1, c2 = st.columns(2)
-    c1.image(Image.open('avatar2.jpg'))
+    c1.image(Image.open('image/avatar.jpg'))
     c2.write("""
     ### Контакты
     - телефон 123-456-789
