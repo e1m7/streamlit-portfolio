@@ -65,8 +65,6 @@ if selected == "Home":
     - [image](https://github.com/e1m7/streamlit-portfolio/blob/main/image/11.png) Blockchain programming and smart contracts
     - [image](https://github.com/e1m7/streamlit-portfolio/blob/main/image/12.png) Cryptoeconomics and Blockchain Technology
     - [image](https://github.com/e1m7/streamlit-portfolio/blob/main/image/13.png) The foundations of digital transformation
-
-
     """)
     a2.write("""
     ### Pile technologique
@@ -74,7 +72,7 @@ if selected == "Home":
     - Spark SQL
     - Spark Streaming
     - Spark RDD
-    - Python
+    - Python :heart:
     - Pandas
     - NumPy
     ---
@@ -112,10 +110,10 @@ if selected == "Contact":
     c1, c2 = st.columns(2)
     c1.image(Image.open('image/avatar.jpg'))
     c2.write("""
-    ### Контакты
+    ### Relations
     - телефон 123-456-789
     - address@server.ru
-    ### Ссылки
+    ### Sites
     - https://platform.stratascratch.com/user/e1m7
     - https://www.codewars.com/users/e1m7
     - https://exercism.org/profiles/e1m7
