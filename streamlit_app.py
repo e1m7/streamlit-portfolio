@@ -7,11 +7,6 @@ import plost
 
 st.set_page_config(layout="wide")
 
-image = Image.open('https://emoji.discourse-cdn.com/google/heart.png?v=12')
-
-# with open('style.css') as f:
-#     st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
-
 with st.sidebar:
     selected = option_menu(
         menu_title = "Main Menu",
@@ -73,7 +68,7 @@ if selected == "Home":
     - Spark SQL
     - Spark Streaming
     - Spark RDD
-    - Python st.image(image, caption='Sunrise by the mountains')
+    - Python
     - Pandas
     - NumPy
     ---
