@@ -50,13 +50,23 @@ if selected == "Home":
     - Bulgare (primaire)
     - Espagnol (primaire)
     ### Certificats
+        **Kaggle**
     - [image](https://github.com/e1m7/streamlit-portfolio/blob/main/image/1.png) Python
     - [image](https://github.com/e1m7/streamlit-portfolio/blob/main/image/2.png) Intro to Machine Learning
     - [image](https://github.com/e1m7/streamlit-portfolio/blob/main/image/3.png) Pandas
     - [image](https://github.com/e1m7/streamlit-portfolio/blob/main/image/4.png) Intro to Programming
     - [image](https://github.com/e1m7/streamlit-portfolio/blob/main/image/5.png) Intermediate Machine Learning
+        **Data Flair**
     - [image](https://github.com/e1m7/streamlit-portfolio/blob/main/image/hadoop.png) Big Data Hadoop
     - [image](https://github.com/e1m7/streamlit-portfolio/blob/main/image/spark.png) Apache Spark Scala
+        **Stepik**
+    - [image](https://github.com/e1m7/streamlit-portfolio/blob/main/image/9.png) Python Programming
+    - [image](https://github.com/e1m7/streamlit-portfolio/blob/main/image/10.png) Python: Basics and application
+    - [image](https://github.com/e1m7/streamlit-portfolio/blob/main/image/11.png) Blockchain programming and smart contracts
+    - [image](https://github.com/e1m7/streamlit-portfolio/blob/main/image/12.png) Cryptoeconomics and Blockchain Technology
+    - [image](https://github.com/e1m7/streamlit-portfolio/blob/main/image/13.png) The foundations of digital transformation
+
+
     """)
     a2.write("""
     ### Pile technologique
