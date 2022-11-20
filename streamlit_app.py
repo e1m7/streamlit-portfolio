@@ -99,11 +99,9 @@ if selected == "Projects":
     - [Gamma Telescope: KNeighbors](https://e1m7-projects-model1my-app-u03h4l.streamlitapp.com/)
     - [Gamma Telescope: Native Bayes](https://e1m7-projects-model2my-app-xvylyf.streamlitapp.com/)
     - [The sense text: 5 models](https://e1m7-projects-model3-positivemy-app-60g5hu.streamlit.app/)
-        - Linear SVM
-        - Decision Tree
-        - Naive Bayes
-        - LogRegression
-        - GridSearchCV
+    - [Kaggle Titanic competition](https://www.kaggle.com/code/lavagod/sedov-titanic-ensemble-model)
+    - [Kaggle House Price competition](https://www.kaggle.com/code/lavagod/sedov-house-price-prediction)
+    - [Kaggle SpaceShip Titanic competition](https://www.kaggle.com/code/lavagod/sedov-spaceship-titanic-top-10)
     """)
 
 
