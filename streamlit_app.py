@@ -92,6 +92,13 @@ if selected == "Projects":
     Développements simples
     - [Create pipeline salary](https://e1m7-projects-prokect10-salarymy-app-dids65.streamlitapp.com/)
     - [Create pipeline cars](https://e1m7-projects-prokect11-carsmy-app-xrcgrz.streamlitapp.com/)
+    - [101: Exploratory data analysis](https://www.kaggle.com/code/lavagod/sedov-101-python-exploratory-data-analysis)
+    - [101: Linear Regression](https://www.kaggle.com/code/lavagod/sedov-101-python-linear-regression)
+    - [101: Pipeline](https://www.kaggle.com/code/lavagod/sedov-101-python-pipeline)
+    - [101: Fast EDA](https://www.kaggle.com/code/lavagod/sedov-tutorial-python-titanic-fasteda)
+    - [101: Sweet VIZ](https://www.kaggle.com/code/lavagod/sedov-tutorial-python-titanic-sweetviz)
+
+
     """)
     b3.write("""
     ### Modèles
