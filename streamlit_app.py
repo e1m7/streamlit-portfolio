@@ -92,8 +92,11 @@ if selected == "Projects":
     Développements simples
     - [Create pipeline salary](https://e1m7-projects-prokect10-salarymy-app-dids65.streamlitapp.com/)
     - [Create pipeline cars](https://e1m7-projects-prokect11-carsmy-app-xrcgrz.streamlitapp.com/)
-
-
+    - [Disaster Tweets](https://www.kaggle.com/code/lavagod/disaster-tweets-minimum-code-0-80232)
+    - [House Price](https://www.kaggle.com/code/lavagod/house-prices-minimum-code-0-15755)
+    - [Spaceship Titanic](https://www.kaggle.com/code/lavagod/spaceship-titanic-minimum-code-0-7725)
+    - [Digit Recognizer](https://www.kaggle.com/code/lavagod/digit-recognizer-minimum-code-0-97846)
+    - [Titanic Survived](https://www.kaggle.com/code/lavagod/titanic-minimum-code-0-78468)
     """)
     b3.write("""
     ### Modèles
@@ -101,9 +104,9 @@ if selected == "Projects":
     - [Gamma Telescope: KNeighbors](https://e1m7-projects-model1my-app-u03h4l.streamlitapp.com/)
     - [Gamma Telescope: Native Bayes](https://e1m7-projects-model2my-app-xvylyf.streamlitapp.com/)
     - [The sense text: 5 models](https://e1m7-projects-model3-positivemy-app-60g5hu.streamlit.app/)
-    - [Kaggle Titanic competition](https://www.kaggle.com/code/lavagod/sedov-titanic-ensemble-model)
-    - [Kaggle House Price competition](https://www.kaggle.com/code/lavagod/sedov-house-price-prediction)
-    - [Kaggle SpaceShip Titanic competition](https://www.kaggle.com/code/lavagod/sedov-spaceship-titanic-top-10)
+    - [Super Heroes](https://www.kaggle.com/code/lavagod/super-heroes-tutorial)
+    - [Arne Svenson prisoners](https://www.kaggle.com/code/lavagod/arne-svenson-prisoners-tutorial)
+    - [Student performance](https://www.kaggle.com/code/lavagod/student-performance-tutorial)
     """)
 
 
