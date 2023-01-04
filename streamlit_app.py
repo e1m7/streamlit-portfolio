@@ -52,6 +52,7 @@ if selected == "Home":
     - [image](https://github.com/e1m7/streamlit-portfolio/blob/main/image/3.png) Pandas
     - [image](https://github.com/e1m7/streamlit-portfolio/blob/main/image/4.png) Intro to Programming
     - [image](https://github.com/e1m7/streamlit-portfolio/blob/main/image/5.png) Intermediate Machine Learning
+    - [image](https://github.com/e1m7/streamlit-portfolio/blob/main/image/14.png) Intro to Game AI and Reinforcement Learning
     Data Flair
     - [image](https://github.com/e1m7/streamlit-portfolio/blob/main/image/hadoop.png) Big Data Hadoop
     - [image](https://github.com/e1m7/streamlit-portfolio/blob/main/image/spark.png) Apache Spark Scala
@@ -86,6 +87,8 @@ if selected == "Projects":
     - [NBA Player Stats Explorer](https://e1m7-projects-project03-basketballpy-app-yzpnyj.streamlitapp.com/)
     - [NFL Football Stats Explorer](https://e1m7-projects-project04-footballmy-app-t0md5t.streamlitapp.com/)
     - [Simple Iris Flower Prediction](https://e1m7-projects-project07-iris-datamy-app-5up9d9.streamlitapp.com/)
+    - [Into to Machine Learning](https://www.kaggle.com/code/lavagod/intro-to-machine-learning-tutorial)
+    - [Intermediate Machine Learning](https://www.kaggle.com/code/lavagod/intermediate-machine-learning-tutorial)
     """)
     b2.write("""
     ### Pipeline
@@ -97,6 +100,8 @@ if selected == "Projects":
     - [Spaceship Titanic](https://www.kaggle.com/code/lavagod/spaceship-titanic-minimum-code-0-7725)
     - [Digit Recognizer](https://www.kaggle.com/code/lavagod/digit-recognizer-minimum-code-0-97846)
     - [Titanic Survived](https://www.kaggle.com/code/lavagod/titanic-minimum-code-0-78468)
+    - [House Prices](https://www.kaggle.com/code/lavagod/house-prices-pipeline-code-0-14893)
+    - [Spaceship Titanic](https://www.kaggle.com/code/lavagod/spaceship-titanic-pipeline-code-0-78185)
     """)
     b3.write("""
     ### Modèles
@@ -107,6 +112,8 @@ if selected == "Projects":
     - [Super Heroes](https://www.kaggle.com/code/lavagod/super-heroes-tutorial)
     - [Arne Svenson prisoners](https://www.kaggle.com/code/lavagod/arne-svenson-prisoners-tutorial)
     - [Student performance](https://www.kaggle.com/code/lavagod/student-performance-tutorial)
+    - [Halite: game](https://www.kaggle.com/code/lavagod/halite-tutorial-rus)
+    - [Catalogue de Messier](https://www.kaggle.com/code/lavagod/catalogue-de-messier-tutorial)
     """)
 
 
