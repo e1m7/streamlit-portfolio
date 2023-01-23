@@ -53,6 +53,8 @@ if selected == "Home":
     - [image](https://github.com/e1m7/streamlit-portfolio/blob/main/image/4.png) Intro to Programming
     - [image](https://github.com/e1m7/streamlit-portfolio/blob/main/image/5.png) Intermediate Machine Learning
     - [image](https://github.com/e1m7/streamlit-portfolio/blob/main/image/14.png) Intro to Game AI and Reinforcement Learning
+    - [image](https://github.com/e1m7/streamlit-portfolio/blob/main/image/20.png) Data Visualisations
+    - [image](https://github.com/e1m7/streamlit-portfolio/blob/main/image/21.png) Feature Engineering
     Data Flair
     - [image](https://github.com/e1m7/streamlit-portfolio/blob/main/image/hadoop.png) Big Data Hadoop
     - [image](https://github.com/e1m7/streamlit-portfolio/blob/main/image/spark.png) Apache Spark Scala
@@ -73,7 +75,7 @@ if selected == "Home":
     - Pandas
     - NumPy
     ---
-    - R lang
+    - CatBoost
     """)
 
 if selected == "Projects":
@@ -114,6 +116,8 @@ if selected == "Projects":
     - [Student performance](https://www.kaggle.com/code/lavagod/student-performance-tutorial)
     - [Halite: game](https://www.kaggle.com/code/lavagod/halite-tutorial-rus)
     - [Catalogue de Messier](https://www.kaggle.com/code/lavagod/catalogue-de-messier-tutorial)
+    - [PC Season 3 Episode 2](https://www.kaggle.com/code/lavagod/pc-s0302-minimum-code-0-81996)
+    - [PC Season 3 Episode 3](https://www.kaggle.com/code/lavagod/pc-s03e03-minimum-code-0-86235)
     """)
 
 
