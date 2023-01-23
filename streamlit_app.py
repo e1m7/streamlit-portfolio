@@ -67,15 +67,22 @@ if selected == "Home":
     """)
     a2.write("""
     ### Pile technologique
+    - Python
+    - Pandas
+    - NumPy
     - Spark Core
     - Spark SQL
     - Spark Streaming
     - Spark RDD
-    - Python
-    - Pandas
-    - NumPy
     ---
-    - CatBoost
+    - Cat Boosting
+    - Decision tree
+    - Random forest
+    - Lasso
+    - LGBMR/LGBMC
+    - XGBR/XGBC
+    - SVM
+    - KNN
     """)
 
 if selected == "Projects":
@@ -116,10 +123,9 @@ if selected == "Projects":
     - [Student performance](https://www.kaggle.com/code/lavagod/student-performance-tutorial)
     - [Halite: game](https://www.kaggle.com/code/lavagod/halite-tutorial-rus)
     - [Catalogue de Messier](https://www.kaggle.com/code/lavagod/catalogue-de-messier-tutorial)
-    - [PC Season 3 Episode 2](https://www.kaggle.com/code/lavagod/pc-s0302-minimum-code-0-81996)
+    - [PC Season 3 Episode 2](https://www.kaggle.com/code/lavagod/pc-s0302-minimum-code-0-81996) 
     - [PC Season 3 Episode 3](https://www.kaggle.com/code/lavagod/pc-s03e03-minimum-code-0-86235)
     """)
-
 
 if selected == "Contact":
     st.title("Contact page")
