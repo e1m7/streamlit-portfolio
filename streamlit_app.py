@@ -31,7 +31,6 @@ if selected == "Home":
     - livre "Python: application pratique" [link](https://t.ly/rCCw), projets en langage simple à complexe
     - livre "Blockchain: contacts intelligents" [link](https://t.ly/FOc8), rédaction de contrats intelligents de simple à complexe
     - certificats et diplômes obtenus pendant le travail [link](https://t.ly/7FE-)
-
     """)
     a1.write("""
     ### Références
