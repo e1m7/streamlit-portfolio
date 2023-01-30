@@ -109,10 +109,10 @@ if selected == "Projects":
     - [House Price](https://www.kaggle.com/code/lavagod/house-prices-minimum-code-0-15755)
     - [Spaceship Titanic](https://www.kaggle.com/code/lavagod/spaceship-titanic-minimum-code-0-7725)
     - [Digit Recognizer](https://www.kaggle.com/code/lavagod/digit-recognizer-minimum-code-0-97846)
-    - [Titanic Survived ♚](https://www.kaggle.com/code/lavagod/titanic-minimum-code-0-78468)
+    - [Titanic Survived](https://www.kaggle.com/code/lavagod/titanic-minimum-code-0-78468) ♚
     - [House Prices](https://www.kaggle.com/code/lavagod/house-prices-pipeline-code-0-14893)
     - [Spaceship Titanic](https://www.kaggle.com/code/lavagod/spaceship-titanic-pipeline-code-0-78185)
-    - [Mercedes Catboost + Shap ♚](https://www.kaggle.com/code/lavagod/mercedes-catboost-shap-tutorial)
+    - [Mercedes Catboost + Shap](https://www.kaggle.com/code/lavagod/mercedes-catboost-shap-tutorial) ♚
     """)
     b3.write("""
     ### Modèles
@@ -121,7 +121,7 @@ if selected == "Projects":
     - [Gamma Telescope: Native Bayes](https://e1m7-projects-model2my-app-xvylyf.streamlitapp.com/)
     - [The sense text: 5 models](https://e1m7-projects-model3-positivemy-app-60g5hu.streamlit.app/)
     - [Super Heroes](https://www.kaggle.com/code/lavagod/super-heroes-tutorial)
-    - [Arne Svenson prisoners ♚](https://www.kaggle.com/code/lavagod/arne-svenson-prisoners-tutorial)
+    - [Arne Svenson prisoners](https://www.kaggle.com/code/lavagod/arne-svenson-prisoners-tutorial) ♚
     - [Student performance](https://www.kaggle.com/code/lavagod/student-performance-tutorial)
     - [Halite: game](https://www.kaggle.com/code/lavagod/halite-tutorial-rus)
     - [Catalogue de Messier](https://www.kaggle.com/code/lavagod/catalogue-de-messier-tutorial)
