@@ -67,6 +67,7 @@ if selected == "Home":
     a2.write("""
     ### Pile technologique
     - Python
+    - SQL
     - Pandas
     - NumPy
     - Spark Core
@@ -75,13 +76,7 @@ if selected == "Home":
     - Spark RDD
     ---
     - Cat Boosting
-    - Decision tree
-    - Random forest
-    - Lasso
-    - LGBMR/LGBMC
-    - XGBR/XGBC
-    - SVM
-    - KNN
+    - Random Forest
     """)
 
 if selected == "Projects":
@@ -127,6 +122,8 @@ if selected == "Projects":
     - [Catalogue de Messier](https://www.kaggle.com/code/lavagod/catalogue-de-messier-tutorial)
     - [PC Season 3 Episode 2](https://www.kaggle.com/code/lavagod/pc-s0302-minimum-code-0-81996) 
     - [PC Season 3 Episode 3](https://www.kaggle.com/code/lavagod/pc-s03e03-minimum-code-0-86235)
+    - [PC Season 3 Episode 5](https://www.kaggle.com/code/lavagod/pc-s03e05-catboost-code-0-55378)
+    - [PC Season 3 Episode 6](https://www.kaggle.com/code/lavagod/pc-s03s06-minimum-code-183826-92964)
     """)
 
 if selected == "Contact":
@@ -138,9 +135,6 @@ if selected == "Contact":
     - телефон 123-456-789
     - address@server.ru
     ### Sites
-    - https://platform.stratascratch.com/user/e1m7
-    - https://www.codewars.com/users/e1m7
-    - https://exercism.org/profiles/e1m7
     - https://www.kaggle.com/lavagod
     - https://github.com/e1m7
     """)
