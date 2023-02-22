@@ -67,16 +67,15 @@ if selected == "Home":
     a2.write("""
     ### Pile technologique
     - Python
-    - SQL
     - Pandas
-    - NumPy
-    - Spark Core
-    - Spark SQL
-    - Spark Streaming
-    - Spark RDD
-    ---
+    - Spark
+    - Databricks
+    - SkLearn
+    - Pipelines
     - Cat Boosting
     - Random Forest
+    - NumPy
+    - SQL
     """)
 
 if selected == "Projects":
@@ -137,4 +136,5 @@ if selected == "Contact":
     ### Sites
     - https://www.kaggle.com/lavagod
     - https://github.com/e1m7
+    - https://leetcode.com/sedovsedov1
     """)
