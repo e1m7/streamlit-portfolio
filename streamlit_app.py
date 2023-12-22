@@ -21,6 +21,7 @@ if selected == "Home":
     a1, a2 = st.columns([5, 2])
     a1.write("""
     ### Информация
+    Контакты
     - Адрес: 75, rue Brancion, Paris, 75015 
     - Телефон: 07-86-91-39-33
     - Email: sedovsedov1@gmail.com
@@ -39,7 +40,7 @@ if selected == "Home":
     - Сбор, очистка, анализ данных для создания отчетов и дашбордов, разработка рекомендаций для сбора данных, использование визуализации данных для представления результатов анализа
     - Разработка полного цикла программного продукта и его техническая поддержка
 
-    Опыт работы (предприятия)
+    Предприятия
 
     - Балашовский пищевой комбинат, 2000 год
     - Балашовский комбинат плащевых тканей, 2002 год
@@ -50,22 +51,20 @@ if selected == "Home":
     - и прочее
     ### Навыки и публикации
 
+    Навыки
     - Программирование: Python, R, SQL
     - Машинное обучение: линейная регрессия, деревья решений, случайный лес, градиентный бустинг, метод ближайших соседей, метод опорных векторов и проч.
     - Аналитические инструменты: Dataiku, JupyterLab, Pandas, NumPy, Matplotlib, Seaborn, Apache Spark, Scikit-learn
     - Базы данных: MySQL, PostgreSQL, MongoDB, Hadoop, Databricks
     - Статистический анализ: статистическое тестирование, корреляционный анализ, временные ряды, анализ выбросов, анализ сложности модели и статистических гипотез
 
-
     Публикации
-
     - Практическое применение языка Python (на русском), https://disk.yandex.ru/i/xPlMThqhoSx40w
     - Написание смарт-контрактов (на русском), https://disk.yandex.ru/i/GyUXz16IA_95Dg 
     - Основы компьютерных технологий (на русском, 12 курсов), https://disk.yandex.ru/d/KLC3uNzen9r27A 
     - Основы языков программирования (на русском, 14 курсов), https://disk.yandex.ru/d/iqJf24Qge9NzkQ 
     
     Сертификаты
-
     Kaggle
     - [image](https://github.com/e1m7/streamlit-portfolio/blob/main/image/1.png) Python
     - [image](https://github.com/e1m7/streamlit-portfolio/blob/main/image/2.png) Intro to Machine Learning
@@ -87,18 +86,18 @@ if selected == "Home":
     """)
     a2.write("""
     ### Pile technologique
-    - Python
-    - JupyterLab
-    - Dataiku
-    - SQL
-    - Pandas
-    - NumPy
-    - Spark
-    - Databricks
-    - SkLearn
-    - Pipelines
-    - Cat Boosting
-    - Random Forest
+    - Python 4/5
+    - JupyterLab 4/5
+    - Dataiku 4/5
+    - SQL 4/5
+    - Pandas 5/5
+    - NumPy 5/5
+    - Spark 3/5
+    - Databricks 3/5
+    - SkLearn 3/5
+    - Pipelines 3/5
+    - Cat Boosting 3/5
+    - Random Forest 3/5
     """)
 
 if selected == "Projects":
