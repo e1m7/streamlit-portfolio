@@ -115,9 +115,10 @@ if selected == "Home":
     a2.write("""
     ### Pile technologique
     - Python ✪✪✪✪
+    - R ✪✪✪
+    - SQL ✪✪✪✪
     - JupyterLab ✪✪✪✪
     - Dataiku ✪✪✪✪
-    - SQL ✪✪✪✪
     - Pandas ✪✪✪✪✪
     - NumPy ✪✪✪✪✪
     - Spark ✪✪✪
