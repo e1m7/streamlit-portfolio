@@ -20,31 +20,57 @@ if selected == "Home":
     st.title("Home page")
     a1, a2 = st.columns([5, 2])
     a1.write("""
-    ### Information
-    - enseignement supérieur (Université d'état de Saratov, 1997)
-    - spécialité "professeur de Mathématiques et d'informatique"
-    - doctorat en sciences de l'éducation (2000 -...)
-    - programmeur (langages de base Python, JavaScript)
-    - vainqueur du projet éducation (2008, 1M Euro), chef de projet
-    - participant au projet" éducation " (2016, 1,5M Euro), chef d'une petite partie du projet
-    - livre "les Bases de la programmation pour les étudiants", pour les étudiants en sciences humaines
-    - livre "Python: application pratique" [link](https://t.ly/rCCw), projets en langage simple à complexe
-    - livre "Blockchain: contacts intelligents" [link](https://t.ly/FOc8), rédaction de contrats intelligents de simple à complexe
-    - certificats et diplômes obtenus pendant le travail [link](https://t.ly/7FE-)
+    ### Информация
+    Ivan Sedov
+
+    Адрес: 75, rue Brancion, Paris, 75015 
+    Телефон: 07-86-91-39-33
+    Email: sedovsedov1@gmail.com
+
+    Образование
+
+    Магистр математики, информатики и вычислительной техники
+    Саратовский университет, 1997
+
+    Доктор наук
+    Саратовский университет, 2001
+
     """)
     a1.write("""
-    ### Références
-    - professeur à l'institut (2000-2006) [link](https://t.ly/d9zy), création de cours de programmation, participation à des conférences, préparation aux examens finaux
-    - professeur à l'institut (2006-2015) [link](https://t.ly/aa6l), participation aux activités de projet, contrôle des relations internationales, participation à des conférences internationales
-    - programmation freelance (2015-2019), création de sites Web pour les entreprises, travail en tant qu'administrateur de site, gestionnaire de contenu, directeur des relations publiques
-    - professeur de collège (2019-...) [link](https://disk.yandex.ru/d/DGhMJddbb3fuVg), préparation et tenue de compétitions régionales sur la blockchain, développement de cours de programmation
-    ### Langue étrangère
-    - Russe (natif)
-    - Français (moyen)
-    - Anglais (moyen)
-    - Bulgare (primaire)
-    - Espagnol (primaire)
-    ### Certificats
+    ### Опыт работы
+    Фрилансер (1999 — 2022 год), Российская Федерация
+
+    1. Анализ больших данных с использованием языков Python и R
+    2. Разработка и оптимизация моделей машинного обучения для прогнозирования продаж, оттока клиентов, поведения клиентов и проч.
+    3. Использование методов статистического анализа для выявления ключевых трендов и паттернов в данных (продажи, образование, строительство, телекоммуникации и проч.)
+    4. Сбор, очистка, анализ данных для создания отчетов и дашбордов, разработка рекомендаций для сбора данных, использование визуализации данных для представления результатов анализа
+    5. Разработка полного цикла программного продукта и его техническая поддержка
+
+    Опыт работы (предприятия)
+
+    1. Балашовский пищевой комбинат, 2000 год
+    2. Балашовский комбинат плащевых тканей, 2002 год
+    3. Дмитровский профессиональный колледж, 2007 год
+    4. Дмитровская торгово-промышленная палата, 2008 год
+    5. Московский журнал «Техника — молодежи», 2010 год
+    6. Московская фирма недвижимости «Добрый дом», 2015 год
+    7. и прочее
+    ### Навыки и публикации
+
+    1. Программирование: Python, R, SQL
+    2. Машинное обучение: линейная регрессия, деревья решений, случайный лес, градиентный бустинг, метод ближайших соседей, метод опорных векторов и проч.
+    3. Аналитические инструменты: Dataiku, JupyterLab, Pandas, NumPy, Matplotlib, Seaborn, Apache Spark, Scikit-learn
+    4. Базы данных: MySQL, PostgreSQL, MongoDB, Hadoop, Databricks
+    5. Статистический анализ: статистическое тестирование, корреляционный анализ, временные ряды, анализ выбросов, анализ сложности модели и статистических гипотез
+
+
+    Публикации
+
+    1. Практическое применение языка Python (на русском), https://disk.yandex.ru/i/xPlMThqhoSx40w
+    2. Написание смарт-контрактов (на русском), https://disk.yandex.ru/i/GyUXz16IA_95Dg 
+    3. Основы компьютерных технологий (на русском, 12 курсов), https://disk.yandex.ru/d/KLC3uNzen9r27A 
+    4. Основы языков программирования (на русском, 14 курсов), https://disk.yandex.ru/d/iqJf24Qge9NzkQ 
+    
     Kaggle
     - [image](https://github.com/e1m7/streamlit-portfolio/blob/main/image/1.png) Python
     - [image](https://github.com/e1m7/streamlit-portfolio/blob/main/image/2.png) Intro to Machine Learning
@@ -67,15 +93,17 @@ if selected == "Home":
     a2.write("""
     ### Pile technologique
     - Python
+    - JupyterLab
+    - Dataiku
+    - SQL
     - Pandas
+    - NumPy
     - Spark
     - Databricks
     - SkLearn
     - Pipelines
     - Cat Boosting
     - Random Forest
-    - NumPy
-    - SQL
     """)
 
 if selected == "Projects":
