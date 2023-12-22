@@ -185,6 +185,7 @@ if selected == "Contact":
     st.title("Contact page")
     c1, c2 = st.columns(2)
     c1.image(Image.open('image/avatar.jpg'))
+    c1.image(Image.open('image/eng.png'))
     c2.write("""
     ### Relations
     - телефон 123-456-789
