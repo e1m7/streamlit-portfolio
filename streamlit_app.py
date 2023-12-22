@@ -129,7 +129,7 @@ if selected == "Home":
     - Cat Boosting ✪✪✪
     - Random Forest ✪✪✪
     Языки
-    - русский (родной) ![](https://github.com/e1m7/streamlit-portfolio/blob/main/image/rus.png)
+    - русский (родной)
     - французский B1
     - английский A1
     """)
