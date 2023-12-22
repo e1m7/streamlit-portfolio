@@ -133,7 +133,10 @@ if selected == "Home":
     - французский B1
     - английский A1
     """)
-    a2.image(Image.open('image/rus.png')) a2.image(Image.open('image/fra.png')) a2.image(Image.open('image/eng.png'))
+    a2.image(Image.open('image/rus.png'))
+    a2.write(""" русский""") 
+    a2.image(Image.open('image/fra.png')) 
+    a2.image(Image.open('image/eng.png'))
 
 if selected == "Projects":
     st.title("Projects page")
