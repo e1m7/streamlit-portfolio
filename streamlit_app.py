@@ -140,7 +140,7 @@ if selected == "Projects":
     - [NFL Football Stats Explorer](https://e1m7-projects-project04-footballmy-app-t0md5t.streamlitapp.com/)
     - [Simple Iris Flower Prediction](https://e1m7-projects-project07-iris-datamy-app-5up9d9.streamlitapp.com/)
     - [Into to Machine Learning](https://www.kaggle.com/code/lavagod/intro-to-machine-learning-tutorial)
-    - [Intermediate Machine Learning](https://www.kaggle.com/code/lavagod/intermediate-machine-learning-tutorial)
+    - [Intermediate Machine Learning](https://www.kaggle.com/code/lavagod/intermediate-machine-learning-tutorial) ✪
     - [Human Learning](https://www.kaggle.com/code/lavagod/102-gleb-part3-human-learning-rus)
     - [Machine Learning](https://www.kaggle.com/code/lavagod/102-gleb-part4-machine-learning-rus)
     """)
