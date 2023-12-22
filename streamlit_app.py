@@ -114,6 +114,7 @@ if selected == "Home":
     """)
     a2.write("""
     ### Pile technologique
+    Технологии
     - Python ✪✪✪✪
     - R ✪✪✪
     - SQL ✪✪✪✪
@@ -127,6 +128,10 @@ if selected == "Home":
     - Pipelines ✪✪✪
     - Cat Boosting ✪✪✪
     - Random Forest ✪✪✪
+    Языки
+    - русский (родной)
+    - французский B1
+    - английский A1
     """)
 
 if selected == "Projects":
