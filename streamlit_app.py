@@ -155,7 +155,7 @@ if selected == "Projects":
     Développements simples
     - [Create pipeline salary](https://e1m7-projects-prokect10-salarymy-app-dids65.streamlitapp.com/)
     - [Create pipeline cars](https://e1m7-projects-prokect11-carsmy-app-xrcgrz.streamlitapp.com/)
-    - [Disaster Tweets](https://www.kaggle.com/code/lavagod/disaster-tweets-minimum-code-0-80232)
+    - [Disaster Tweets](https://www.kaggle.com/code/lavagod/disaster-tweets-minimum-code-0-80232) ✪✪✪
     - [House Price](https://www.kaggle.com/code/lavagod/house-prices-minimum-code-0-15755)
     - [Spaceship Titanic](https://www.kaggle.com/code/lavagod/spaceship-titanic-minimum-code-0-7725)
     - [Digit Recognizer](https://www.kaggle.com/code/lavagod/digit-recognizer-minimum-code-0-97846)
