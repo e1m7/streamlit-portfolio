@@ -112,6 +112,9 @@ if selected == "Home":
     - [image](https://github.com/e1m7/streamlit-portfolio/blob/main/image/11.png) Blockchain programming and smart contracts
     - [image](https://github.com/e1m7/streamlit-portfolio/blob/main/image/12.png) Cryptoeconomics and Blockchain Technology
     - [image](https://github.com/e1m7/streamlit-portfolio/blob/main/image/13.png) The foundations of digital transformation
+    Dataiku
+    - [image](https://github.com/e1m7/streamlit-portfolio/blob/main/image/certificate-fv3v8znaq9pf-1692899382.jpg)Dataiku Core Designer
+    - [image](https://github.com/e1m7/streamlit-portfolio/blob/main/image/certificate-jxknidxs5hrm-1693164772.jpg)Dataiku ML Practitioner
     """)
     a2.write("""
     ### Pile technologique
