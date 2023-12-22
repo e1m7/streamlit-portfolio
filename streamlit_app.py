@@ -114,18 +114,18 @@ if selected == "Home":
     """)
     a2.write("""
     ### Pile technologique
-    - Python 4/5
-    - JupyterLab 4/5
-    - Dataiku 4/5
-    - SQL 4/5
-    - Pandas 5/5
-    - NumPy 5/5
-    - Spark 3/5
-    - Databricks 3/5
-    - SkLearn 3/5
-    - Pipelines 3/5
-    - Cat Boosting 3/5
-    - Random Forest 3/5
+    - Python ✪✪✪✪
+    - JupyterLab ✪✪✪✪
+    - Dataiku ✪✪✪✪
+    - SQL ✪✪✪✪
+    - Pandas ✪✪✪✪✪
+    - NumPy ✪✪✪✪✪
+    - Spark ✪✪✪
+    - Databricks ✪✪✪
+    - SkLearn ✪✪✪
+    - Pipelines ✪✪✪
+    - Cat Boosting ✪✪✪
+    - Random Forest ✪✪✪
     """)
 
 if selected == "Projects":
