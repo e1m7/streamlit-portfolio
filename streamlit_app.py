@@ -133,6 +133,9 @@ if selected == "Home":
     - французский B1
     - английский A1
     """)
+    a2.image(Image.open('image/rus.png'))
+    a2.image(Image.open('image/fra.png'))
+    a2.image(Image.open('image/eng.png'))
 
 if selected == "Projects":
     st.title("Projects page")
@@ -185,7 +188,6 @@ if selected == "Contact":
     st.title("Contact page")
     c1, c2 = st.columns(2)
     c1.image(Image.open('image/avatar.jpg'))
-    c1.image(Image.open('image/eng.png'))
     c2.write("""
     ### Relations
     - телефон 123-456-789
