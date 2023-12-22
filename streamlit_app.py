@@ -129,14 +129,10 @@ if selected == "Home":
     - Cat Boosting ✪✪✪
     - Random Forest ✪✪✪
     Языки
-    - русский (родной)
+    - русский (родной) ![](https://github.com/e1m7/streamlit-portfolio/blob/main/image/rus.png)
     - французский B1
     - английский A1
     """)
-    a2.image(Image.open('image/rus.png'))
-    a2.write(""" русский""") 
-    a2.image(Image.open('image/fra.png')) 
-    a2.image(Image.open('image/eng.png'))
 
 if selected == "Projects":
     st.title("Projects page")
